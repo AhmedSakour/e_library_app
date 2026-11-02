@@ -39,15 +39,15 @@
 
 | Splash | Onboarding | Sign in | Sign up |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/splash.jpg" width="200"/> | <img src="screenshots/onboard.jpg" width="200"/> | <img src="screenshots/login.jpg" width="200"/> | <img src="screenshots/sign_up.jpg" width="200"/> |
+| <img src="screenshots/splash-portrait.png" width="200"/> | <img src="screenshots/onboard-portrait.png" width="200"/> | <img src="screenshots/login-portrait.png" width="200"/> | <img src="screenshots/sign up-portrait.png" width="200"/> |
 
 | Home | Search | Book details |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/search.jpg" width="200"/> | <img src="screenshots/book_details.jpg" width="200"/> |
+| <img src="screenshots/home-portrait.png" width="200"/> | <img src="screenshots/search-portrait.png" width="200"/> | <img src="screenshots/book_details-portrait.png" width="200"/> |
 
 | Author details | Publisher details |
 |:---:|:---:|
-| <img src="screenshots/author_details.jpg" width="200"/> | <img src="screenshots/publisher_details.jpg" width="200"/> |
+| <img src="screenshots/author_details-portrait.png" width="200"/> | <img src="screenshots/publisher_details-portrait.png" width="200"/> |
 
 ## 🧰 Tech Stack
 
@@ -166,10 +166,4 @@ The role is determined by the `isAdmin` flag returned by the server at login.
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
 
-## 📄 License
 
-Add your license here (e.g. [MIT](https://choosealicense.com/licenses/mit/)).
-
-## 👤 Author
-
-**Your Name** — [@your-github-username](https://github.com/your-github-username)
